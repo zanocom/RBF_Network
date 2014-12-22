@@ -2,7 +2,7 @@ RBF_Network
 ===========
 RBF network functions
 
-The repository contains code by Joao Nieto ( http://www.di.fc.ul.pt/~jpn/r/rbf/rbf.html ) 
+The repository contains code by Joao Neto ( http://www.di.fc.ul.pt/~jpn/r/rbf/rbf.html ) 
 developed by me in order to obtain better performance.
 
 The files are:
@@ -21,5 +21,5 @@ versus 88.63 sec of the original version.
 
 Package pracma is required.
 
-Next step is to add a sanity check in rbf_dist function
+Next step is to add a sanity check in rbf_dist function to control whether dimensions are correct.
 
